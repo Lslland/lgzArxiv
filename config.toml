@@ -4,6 +4,11 @@ cache_url = "https://Lslland.github.io/lgzArxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "cs.CL"
+title = "Computation and Language"
+
+[[sources]]
+limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
